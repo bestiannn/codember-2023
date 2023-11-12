@@ -7,4 +7,5 @@ Ejecuta los programas con python
 
 ```bash
   python ./CHALLENGE_01
+  python ./CHALLENGE_02
 ```
