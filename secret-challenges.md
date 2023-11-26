@@ -9,3 +9,7 @@ Retos secretos de Codember 2023
 - confetti * 9
 - submit html
 - submit itsmagic
+- sudo nljzuyfzb
+- submit altman
+- submit majortom
+- do barrel roll
