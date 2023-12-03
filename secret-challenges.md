@@ -13,3 +13,7 @@ Retos secretos de Codember 2023
 - submit altman
 - submit majortom
 - do barrel roll
+- ping midu.dev
+- play tetris
+- submit bug
+- npm install adventjs
